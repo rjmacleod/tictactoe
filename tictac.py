@@ -1,6 +1,6 @@
 # Plays a simple tic tac toe game with ai.
 # Computer = 1's, player = 2's
-# Currently not functional.
+# CPU currently always goes first and will always win/tie
 
 # Packages
 
